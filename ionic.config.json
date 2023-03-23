@@ -1,0 +1,7 @@
+{
+  "name": "site-ionic-CABLEY-Florian",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
